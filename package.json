@@ -1,0 +1,21 @@
+{
+  "name": "persistentsession",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "connect-mongo": "^1.3.2",
+    "ejs": "^2.5.7",
+    "express": "^4.15.4",
+    "express-delay": "^0.2.0",
+    "express-session": "^1.15.5",
+    "mongodb": "^2.2.31",
+    "mongojs": "^2.4.1",
+    "timer-stopwatch": "^0.2.0"
+  }
+}
